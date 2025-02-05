@@ -21,7 +21,3 @@ jobs:
       with:
         name: test-results
         path: test-results/
-
-        git add .github/workflows/your-workflow-file.yml
-git commit -m "Update upload-artifact action to v4"
-git push
