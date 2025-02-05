@@ -61,7 +61,7 @@
 &trans  &kp N1           &kp N2          &kp N3        &kp N4        &kp N5                 &kp N6           &kp N7           &kp N8           &kp N9           &kp N0    &kp BSPC
 &trans  &bt BT_CLR_ALL   &bt BT_SEL 0    &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3           &non           &non          &kp MINUS      &kp EQUAL     &kp LBKT      &kp RBKT
 &trans  &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &non          &kp RCTRL     &rgb_ug RGB_EFF        &rgb_ug RGB_EFR  &rgb_ug RGB_SPI  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &kp BACKSLASH   &kp GRAVE
-                                         &trans        &trans        &trans             &trans          &trans          &trans
+                                         &trans        &trans        &trans              &trans          &trans          &trans
             >;
         };
 
